@@ -476,7 +476,7 @@ header .content a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-block: 100px;
+    padding-bottom: 100px;
     flex-direction: column;
 }
 
